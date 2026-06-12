@@ -154,7 +154,7 @@ router.put("/:id", (req, res, next) => {
 });
 
 // HECHO y derecho. Q aburrido ni ganas de hacerlo pero fue.. Un capo para el que
-lea este comentario. Pone una Github Issue si lo leiste (al que sea)
+// lea este comentario. Pone una Github Issue si lo leiste (al que sea)
 
 router.patch("/:id", (req, res, next) => {
   try {
