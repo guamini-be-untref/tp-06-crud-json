@@ -146,7 +146,7 @@ Elimina la tarea usando el id recibido
 GET /health
 ```
 
-Para ver si el servidor esta activo o no
+Para comprobar si el servidor esta activo o no, o incluso si tiene algun error interno
 
 ---
 
@@ -168,7 +168,7 @@ Para ver si el servidor esta activo o no
 
 # Campos
 
-| Campo         | Descripción                                    |
+| Campo         | Descripcion                                    |
 | ------------- | -----------------------------------------------|
 | `id`          | Identificador para cada tarea                  |
 | `title`       | Nombre de la tarea                             |
