@@ -7,7 +7,7 @@ La informacion se guarda en un archivo JSON
 
 ## Descripcion
 
-La API permite manejar una lista de tareas usando distintos métodos HTTP:
+La API permite manejar una lista de tareas usando distintos metodos HTTP:
 
 * `GET` para obtener datos
 * `POST` para crear una tarea
@@ -86,9 +86,9 @@ Ejemplo de envio de datos:
 
 ```json
 {
-  "title": "Hacer la documentación",
-  "description": "Completar el README del proyecto",
-  "priority": "mid"
+  "title": "Hacer la documentacion",
+  "description": "Terminar ERS del proyecto",
+  "priority": "high"
 }
 ```
 
